@@ -75,10 +75,16 @@ export default function LeadMagnet() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                   </div>
-                  <h3 className="mt-3 text-lg font-bold text-text">Check Your Email!</h3>
+                  <h3 className="mt-3 text-lg font-bold text-text">Your Checklist Is Ready!</h3>
                   <p className="mt-1 text-sm text-text-light">
-                    Your checklist is on its way. Check your inbox (and spam folder, just in case).
+                    Click below to view and save your free checklist.
                   </p>
+                  <a
+                    href="/checklist"
+                    className="mt-3 inline-block rounded-lg bg-warm px-6 py-2.5 text-sm font-bold text-white hover:bg-warm-light transition-all"
+                  >
+                    View Checklist
+                  </a>
                 </div>
               ) : (
                 <>
