@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #2d2d2d;
+  --color-primary-light: #3d3d3d;
+  --color-primary-dark: #1a1a1a;
+  --color-warm: #c4956a;
+  --color-warm-light: #d4a87d;
+  --color-warm-dark: #a87d56;
+  --color-cream: #f5f0eb;
+  --color-cream-dark: #e8ddd3;
+  --color-accent: #8b6f47;
+  --color-surface: #faf8f5;
+  --color-surface-alt: #f0ece7;
+  --color-text: #2d2d2d;
+  --color-text-light: #6b6b6b;
+  --color-text-lighter: #9a9a9a;
+  --color-white: #ffffff;
+  --color-border: #e5ddd5;
+  --font-sans: "Georgia", "Times New Roman", serif;
+  --font-heading: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-heading);
+  color: var(--color-text);
+  background: var(--color-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: var(--color-warm);
+  color: white;
+}
+
+section[id] {
+  scroll-margin-top: 80px;
+}
+
+.font-serif {
+  font-family: var(--font-sans);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--color-warm);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--color-primary);
+  color: white;
+  padding: 8px 16px;
+  z-index: 100;
+  transition: top 0.3s;
+}
+
+.skip-link:focus {
+  top: 0;
+}
