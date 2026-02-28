@@ -16,16 +16,20 @@ export default function ContactPage() {
     const data = Object.fromEntries(formData.entries());
 
     try {
-      const res = await fetch("/api/contact", {
+      const res = await fetch("https://formspree.io/f/xplaceholder", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { Accept: "application/json", "Content-Type": "application/json" },
         body: JSON.stringify(data),
       });
 
       if (!res.ok) throw new Error("Submission failed");
       setSubmitted(true);
     } catch {
-      setError("Something went wrong. Please try again or email us directly.");
+      // Fallback: open mailto with form data
+      const subject = encodeURIComponent(`Strategy Call Request: ${data.firstName} ${data.lastName}`);
+      const body = encodeURIComponent(`Name: ${data.firstName} ${data.lastName}\nEmail: ${data.email}\nPhone: ${data.phone || "N/A"}\nLocation: ${data.propertyLocation || "N/A"}\nService: ${data.service}\nProperties: ${data.properties || "N/A"}\nMessage: ${data.message || "N/A"}`);
+      window.open(`mailto:michelle@midtermmentor.com?subject=${subject}&body=${body}`);
+      setSubmitted(true);
     } finally {
       setSubmitting(false);
     }
