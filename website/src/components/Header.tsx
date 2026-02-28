@@ -23,21 +23,15 @@ export default function Header() {
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8" aria-label="Main navigation">
         <div className="flex h-16 items-center justify-between md:h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3" aria-label="Mid-Term Mentor — Home">
-            <div className="flex h-10 w-10 items-center justify-center rounded-md bg-warm/20">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                <path d="M3 21V9L12 3L21 9V21H15V14H9V21H3Z" fill="#c4956a" />
-                <path d="M10 14H14V21H10V14Z" fill="#2d2d2d" />
-              </svg>
-            </div>
-            <div>
-              <span className="block text-lg font-bold tracking-wide text-white">
-                Mid-Term <span className="text-warm">Mentor</span>
-              </span>
-              <span className="block text-[10px] uppercase tracking-[0.2em] text-white/50">
-                Michelle Romano
-              </span>
-            </div>
+          <Link href="/" className="flex items-center" aria-label="Mid-Term Mentor — Home">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/logo.png"
+              alt="Mid-Term Mentor"
+              width={180}
+              height={48}
+              className="h-12 w-auto"
+            />
           </Link>
 
           {/* Desktop Navigation */}

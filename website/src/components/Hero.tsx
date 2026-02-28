@@ -59,51 +59,33 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Visual — Stats cards */}
+          {/* Michelle's Photo */}
           <div className="hidden lg:block">
             <div className="relative">
-              <div className="rounded-2xl bg-white/5 p-8 ring-1 ring-white/10 backdrop-blur-sm">
-                <div className="space-y-6">
-                  <div className="flex items-center gap-4">
-                    <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-warm/20">
-                      <svg className="h-7 w-7 text-warm" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" aria-hidden="true">
-                        <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 0h.008v.008h-.008V7.5z" />
-                      </svg>
-                    </div>
-                    <div>
-                      <p className="text-sm text-white/50">Average Monthly Revenue</p>
-                      <p className="text-2xl font-bold text-white">$2,500 – $5,000+</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-4">
-                    <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-warm/20">
-                      <svg className="h-7 w-7 text-warm" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" aria-hidden="true">
-                        <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-                      </svg>
-                    </div>
-                    <div>
-                      <p className="text-sm text-white/50">Average Tenant Stay</p>
-                      <p className="text-2xl font-bold text-white">3 – 9 Months</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-4">
-                    <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-warm/20">
-                      <svg className="h-7 w-7 text-warm" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" aria-hidden="true">
-                        <path strokeLinecap="round" strokeLinejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z" />
-                      </svg>
-                    </div>
-                    <div>
-                      <p className="text-sm text-white/50">Less Turnover vs Airbnb</p>
-                      <p className="text-2xl font-bold text-white">80% Lower Costs</p>
-                    </div>
-                  </div>
-                </div>
+              {/* Photo container */}
+              <div className="relative overflow-hidden rounded-2xl ring-1 ring-white/10">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/michelle.jpg"
+                  alt="Michelle Romano — Mid-Term Rental Consultant"
+                  width={560}
+                  height={640}
+                  className="h-[520px] w-full object-cover object-top"
+                />
+                {/* Gradient overlay at bottom */}
+                <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-primary/80 to-transparent" />
               </div>
 
               {/* Floating quote */}
               <div className="absolute -bottom-6 -left-6 rounded-xl bg-white p-4 shadow-xl ring-1 ring-black/5">
                 <p className="text-xs font-medium text-text">&quot;Michelle made the whole process effortless.&quot;</p>
                 <p className="mt-1 text-xs text-text-light">— Property Owner, Atlanta</p>
+              </div>
+
+              {/* Floating stat */}
+              <div className="absolute -top-3 -right-3 rounded-xl bg-warm px-4 py-3 shadow-xl">
+                <p className="text-2xl font-bold text-white">2–3x</p>
+                <p className="text-[11px] text-white/80">More Revenue vs Long-Term</p>
               </div>
             </div>
           </div>

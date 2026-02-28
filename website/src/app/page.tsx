@@ -21,10 +21,10 @@ export default function Home() {
   return (
     <>
       <Hero />
+      <Testimonials />
       <Services />
       <Stats />
       <HowItWorks />
-      <Testimonials />
       <LeadMagnet />
       <FAQ />
       <CTA />
