@@ -12,16 +12,16 @@ export default function LeadMagnet() {
     setSubmitting(true);
 
     try {
-      const res = await fetch("/api/lead-magnet", {
+      const res = await fetch("https://formspree.io/f/xplaceholder", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        headers: { Accept: "application/json", "Content-Type": "application/json" },
+        body: JSON.stringify({ email, _subject: "New Lead Magnet Download Request" }),
       });
 
       if (!res.ok) throw new Error("Failed");
       setSubmitted(true);
     } catch {
-      setSubmitted(true); // Show success anyway for UX — log errors server-side
+      setSubmitted(true);
     } finally {
       setSubmitting(false);
     }
