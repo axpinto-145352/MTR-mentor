@@ -31,21 +31,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-const geoMap: Record<string, { city: string; state: string }> = {
-  "mid-term-rentals-austin-texas": { city: "Austin", state: "TX" },
-  "mid-term-rentals-charlotte-north-carolina": { city: "Charlotte", state: "NC" },
-  "mid-term-rentals-nashville-tennessee": { city: "Nashville", state: "TN" },
-  "mid-term-rentals-tampa-florida": { city: "Tampa", state: "FL" },
-  "mid-term-rentals-denver-colorado": { city: "Denver", state: "CO" },
-};
-
 export default async function BlogPostPage({ params }: Props) {
   const { slug } = await params;
   const post = blogPosts.find((p) => p.slug === slug);
 
   if (!post) notFound();
-
-  const geo = geoMap[slug];
 
   return (
     <>
@@ -171,7 +161,7 @@ export default async function BlogPostPage({ params }: Props) {
           </div>
 
           {/* Lead Magnet CTA */}
-          <BlogLeadMagnet city={geo?.city} state={geo?.state} />
+          <BlogLeadMagnet />
         </div>
       </article>
 
