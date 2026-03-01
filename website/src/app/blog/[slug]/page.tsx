@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { blogPosts } from "../posts";
+import BlogLeadMagnet from "@/components/BlogLeadMagnet";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -30,11 +31,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+const geoMap: Record<string, { city: string; state: string }> = {
+  "mid-term-rentals-austin-texas": { city: "Austin", state: "TX" },
+  "mid-term-rentals-charlotte-north-carolina": { city: "Charlotte", state: "NC" },
+  "mid-term-rentals-nashville-tennessee": { city: "Nashville", state: "TN" },
+  "mid-term-rentals-tampa-florida": { city: "Tampa", state: "FL" },
+  "mid-term-rentals-denver-colorado": { city: "Denver", state: "CO" },
+};
+
 export default async function BlogPostPage({ params }: Props) {
   const { slug } = await params;
   const post = blogPosts.find((p) => p.slug === slug);
 
   if (!post) notFound();
+
+  const geo = geoMap[slug];
 
   return (
     <>
@@ -159,21 +170,8 @@ export default async function BlogPostPage({ params }: Props) {
             })}
           </div>
 
-          {/* CTA */}
-          <div className="mt-16 rounded-2xl bg-cream p-8 text-center">
-            <h2 className="font-serif text-2xl font-bold text-primary">
-              Ready to Start Your Mid-Term Rental?
-            </h2>
-            <p className="mt-2 text-text-light">
-              Book a free strategy call and we&apos;ll help you evaluate your property, plan your setup, and find your first tenant.
-            </p>
-            <Link
-              href="/contact"
-              className="mt-6 inline-block rounded-lg bg-warm px-8 py-3 text-sm font-bold text-white transition-all hover:bg-warm-light"
-            >
-              Book a Free Strategy Call
-            </Link>
-          </div>
+          {/* Lead Magnet CTA */}
+          <BlogLeadMagnet city={geo?.city} state={geo?.state} />
         </div>
       </article>
 
