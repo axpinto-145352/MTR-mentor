@@ -50,7 +50,7 @@ www.midtermmentor.com
   Bright, well-composed photos of every room. Include exterior, kitchen, bathrooms, bedrooms, workspace, and any unique features. Professional photography pays for itself in faster bookings.
 
 - [ ] **Write a listing that sells benefits, not features**
-  Lead with tenant benefits: "Walk to Memorial Hospital in 5 minutes" beats "Close to hospital." Include monthly pricing, utilities policy, lease flexibility, pet policy, and parking details.
+  Lead with tenant benefits: 'Walk to Memorial Hospital in 5 minutes' beats 'Close to hospital.' Include monthly pricing, utilities policy, lease flexibility, pet policy, and parking details.
 
 ---
 

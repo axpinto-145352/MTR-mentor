@@ -78,8 +78,8 @@ export default function BlogLeadMagnet() {
           <p className="mt-2 text-sm leading-relaxed text-text-light">
             Everything you need to launch your first mid-term rental — from property assessment to finding your first tenant. 15 actionable steps with budget ranges and platform recommendations.
           </p>
-          <ul className="mt-3 flex flex-wrap gap-x-4 gap-y-1">
-            {["Property assessment", "Furnishing checklist", "Platform rankings", "Screening guide"].map((item) => (
+          <ul className="mt-3 flex flex-wrap gap-x-4 gap-y-1" role="list">
+            {["Property assessment", "Furnishing checklist", "Platform rankings", "Screening guide", "Pricing formula", "Legal compliance"].map((item) => (
               <li key={item} className="flex items-center gap-1.5 text-xs text-text-light">
                 <svg className="h-3.5 w-3.5 shrink-0 text-warm" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
@@ -114,7 +114,7 @@ export default function BlogLeadMagnet() {
               {submitting ? "Sending..." : "Download Free Checklist"}
             </button>
             {error && (
-              <p className="text-center text-xs text-red-600">
+              <p className="text-center text-xs text-red-600" role="alert">
                 Something went wrong. Please try again or{" "}
                 <Link href="/contact" className="underline">
                   contact us directly

@@ -10,6 +10,167 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "mid-term-rentals-austin-texas",
+    title: "Mid-Term Rentals in Austin, TX: A Market Guide for Property Owners",
+    date: "2026-03-01",
+    readTime: "8 min read",
+    excerpt:
+      "Austin's booming healthcare sector, tech relocations, and year-round events make it one of the strongest mid-term rental markets in the country. Here's how to capitalize on it.",
+    tags: ["Austin TX", "Market Guide", "Geo Strategy"],
+    content: `Austin, Texas has quietly become one of the best cities in the country for mid-term rental operators. A combination of explosive job growth, a massive healthcare corridor, and strict short-term rental regulations has created the perfect conditions for furnished 30–90 day rentals.
+
+## Why Austin Works for Mid-Term Rentals
+
+Austin's population has grown by over 20% in the past five years, and the demand for flexible housing hasn't kept pace with supply. Three major factors drive MTR demand here:
+
+**Healthcare demand.** Austin is home to Ascension Seton, Baylor Scott & White, St. David's Medical Center, and Dell Children's Medical Center. These facilities rely heavily on traveling nurses, therapists, and technicians on 13-week contracts. Properties within a 15-minute drive of the medical district consistently fill fastest.
+
+**Tech relocations.** Companies like Tesla, Apple, Google, Meta, and Oracle have expanded their Austin footprints significantly. Employees relocating from the Bay Area, Seattle, and New York often need furnished housing for 2–6 months while they house-hunt or decide whether to commit long-term.
+
+**Event and creative economy.** SXSW, Austin City Limits, F1 Circuit of the Americas, and UT Austin football bring extended-stay visitors who need housing beyond what hotels offer. Film and TV production crews frequently book mid-term housing for project durations.
+
+## Best Neighborhoods for Austin MTRs
+
+Not all Austin neighborhoods perform equally for mid-term rentals. The strongest markets include:
+
+- **Mueller / University Hills** — Close to Dell Children's and Seton. Newer construction, walkable, attracts healthcare tenants.
+- **South Congress / Travis Heights** — Premium location commanding top rents. Appeals to corporate relocations and creative professionals.
+- **East Riverside / Oltorf** — Affordable entry point with proximity to downtown. Strong demand from young professionals and interns.
+- **Round Rock / Cedar Park** — Suburban markets near St. David's Round Rock and Baylor Scott & White. Family-friendly, lower entry costs.
+- **Domain / North Austin** — Tech corridor near Apple, Indeed, and Amazon offices. High demand from corporate tenants.
+
+## Austin MTR Revenue Expectations
+
+Mid-term rental rates in Austin vary by neighborhood and property size:
+
+- **1-bedroom apartment:** $1,800–$2,600/month
+- **2-bedroom house/condo:** $2,800–$4,200/month
+- **3-bedroom house:** $3,500–$5,500/month
+
+Compare these to long-term rental rates of $1,200–$1,800 for a 1-bedroom or $1,800–$2,400 for a 2-bedroom, and the revenue premium becomes clear.
+
+## Austin's STR Regulations Work in Your Favor
+
+Austin has some of the most restrictive short-term rental rules in Texas. Type 2 STR licenses (for non-owner-occupied properties) are capped and no longer issued in many areas. This has pushed many former Airbnb properties toward the mid-term model — but it's also reduced competition for hosts who were already positioned for 30+ day stays.
+
+Mid-term rentals of 30 days or more are classified as standard residential leases in Austin and don't require an STR license. No special permits, no occupancy taxes, no neighbor notification.
+
+## Getting Started in Austin
+
+If you own property in the Austin metro area, the path to launching a mid-term rental is straightforward. The key is matching your property to the right tenant pool — a condo near Dell Children's will attract different tenants than a house near the Domain.
+
+We work with Austin-area property owners to assess their specific market, furnish strategically, and list on the platforms where Austin tenants actually search. Book a free strategy call and we'll run the numbers for your property.`,
+  },
+  {
+    slug: "mid-term-rentals-charlotte-north-carolina",
+    title: "Mid-Term Rentals in Charlotte, NC: Why the Queen City Is a Top MTR Market",
+    date: "2026-02-22",
+    readTime: "7 min read",
+    excerpt:
+      "Charlotte's banking sector, growing healthcare system, and rapid population growth create steady demand for mid-term rentals. Here's what property owners need to know.",
+    tags: ["Charlotte NC", "Market Guide", "Geo Strategy"],
+    content: `Charlotte, North Carolina has emerged as one of the Southeast's strongest markets for mid-term rentals. As the second-largest banking center in the United States and a city experiencing rapid population and job growth, Charlotte offers MTR operators a deep, diverse tenant pool with reliable demand year-round.
+
+## What Drives MTR Demand in Charlotte
+
+Charlotte's mid-term rental demand comes from several distinct sources, which means your property isn't dependent on a single industry or season.
+
+**Banking and finance.** Charlotte is the headquarters of Bank of America and Truist Financial, with major offices from Wells Fargo, Ally Financial, and dozens of fintech firms. Corporate relocations, consulting projects, and temporary assignments generate steady demand for furnished housing near Uptown and South End.
+
+**Healthcare.** Atrium Health (now Advocate Health), Novant Health, and Levine Cancer Institute are major employers. Traveling nurses, specialists, and medical researchers on 13-week to 6-month contracts need furnished housing close to these facilities.
+
+**Construction and infrastructure.** Charlotte's building boom — from the LYNX Silver Line expansion to massive mixed-use developments — brings project managers, engineers, and skilled trades workers who need housing for the duration of multi-month projects.
+
+**Motorsports and sports.** NASCAR headquarters, Charlotte Motor Speedway, and professional sports teams (Panthers, Hornets, Charlotte FC) bring team staff, media, and support personnel for extended periods.
+
+## Best Charlotte Neighborhoods for MTRs
+
+- **South End / Dilworth** — Walkable to Uptown, LYNX light rail access. Top-tier rents from banking and corporate tenants.
+- **NoDa (North Davidson)** — Arts district with character. Appeals to younger professionals and creative-industry relocations.
+- **University City** — Near UNC Charlotte, Atrium Health University City, and the LYNX Blue Line. Strong healthcare and student demand.
+- **Ballantyne** — Suburban corporate campus area. Attracts families and executives on longer assignments.
+- **Pineville / Matthews** — Affordable entry point with proximity to Novant Health and Atrium Health Pineville.
+
+## Charlotte MTR Revenue Expectations
+
+Charlotte offers strong returns relative to property costs:
+
+- **1-bedroom apartment:** $1,500–$2,200/month
+- **2-bedroom house/condo:** $2,200–$3,400/month
+- **3-bedroom house:** $2,800–$4,500/month
+
+Long-term rental comparisons: a 2-bedroom in South End might rent for $1,600–$2,000 unfurnished. The same unit as a furnished mid-term rental commands $2,800–$3,400 — a 60–70% premium.
+
+## Charlotte's Regulatory Environment
+
+Charlotte and Mecklenburg County have minimal regulation around mid-term rentals. Rentals of 30+ days are treated as standard residential leases. There's no special permitting process, no occupancy tax for stays over 30 days, and no cap on the number of rental properties you can operate.
+
+This regulatory clarity is one of Charlotte's biggest advantages for MTR investors compared to markets like Nashville or Austin, where short-term rental restrictions create complexity even for 30+ day operators.
+
+## The Charlotte Opportunity
+
+Charlotte's combination of diverse demand drivers, reasonable property prices, and a landlord-friendly regulatory environment makes it an ideal market for mid-term rental operators — whether you're launching your first property or expanding a portfolio.
+
+We help Charlotte-area property owners identify the right neighborhoods, furnish for their target tenant, and launch with a multi-platform listing strategy. Book a free strategy call to see what your property could earn as a mid-term rental.`,
+  },
+  {
+    slug: "mid-term-rentals-nashville-tennessee",
+    title: "Mid-Term Rentals in Nashville, TN: Navigating Regulations and Maximizing Revenue",
+    date: "2026-02-18",
+    readTime: "8 min read",
+    excerpt:
+      "Nashville's crackdown on short-term rentals has created a massive opportunity for mid-term operators. Here's how to position your property in Music City's evolving rental market.",
+    tags: ["Nashville TN", "Market Guide", "Geo Strategy"],
+    content: `Nashville's short-term rental crackdown has been one of the most dramatic in the country — and it's created a golden opportunity for mid-term rental operators. As hundreds of Airbnb properties are pulled from the nightly market, demand for furnished 30+ day housing is surging. Property owners who pivot to mid-term now are positioned to capture displaced demand with less competition.
+
+## Nashville's STR Regulations: What Changed
+
+Nashville has progressively tightened its short-term rental rules over several years:
+
+- **Non-owner-occupied STR permits** in residential zones are no longer issued and existing permits are phasing out
+- Strict enforcement with fines up to $50 per day for unpermitted operations
+- Owner-occupied permits still available but require the owner to be present during guest stays
+- Commercial zones still allow STRs but with additional requirements
+
+**The key takeaway:** If you operate a rental of 30+ days, none of these restrictions apply. Mid-term rentals are classified as standard residential leases in Nashville and require no special permits.
+
+## Why Nashville's MTR Demand Is Surging
+
+Beyond the regulatory shift, Nashville has fundamental demand drivers that make mid-term rentals thrive:
+
+**Healthcare.** Vanderbilt University Medical Center, TriStar Health (HCA), and Ascension Saint Thomas are among the largest employers in the region. Nashville is literally called "The Healthcare Capital of the World" — the city is home to more than 500 healthcare companies. Traveling nurses and healthcare professionals on 13-week contracts are the backbone of Nashville's MTR tenant pool.
+
+**Music and entertainment industry.** Nashville's music industry brings session musicians, songwriters, producers, and label executives on project-based stays lasting 1–6 months. Music Row and the recording studios create a unique tenant demographic you won't find in most markets.
+
+**Corporate relocations.** Amazon's Operations Center of Excellence, AllianceBernstein's relocated headquarters, and Oracle's growing Nashville presence bring a steady flow of professionals needing furnished housing during transitions.
+
+**Tourism spillover.** Nashville's reputation as a destination city means there's always demand at the margins — conference attendees extending their stays, bachelorette parties turning into month-long "try before you move" experiences, and remote workers testing Nashville as a home base.
+
+## Best Nashville Neighborhoods for MTRs
+
+- **East Nashville** — Trendy, walkable, close to downtown. Strong demand from music industry and young professionals. Premium rents.
+- **Germantown / Salemtown** — Near Vanderbilt and downtown hospitals. Attracts healthcare tenants and corporate relocations.
+- **The Gulch / Midtown** — High-end market near Vanderbilt, Music Row, and major employers. Top-tier pricing.
+- **Berry Hill / Melrose** — Music studio corridor. Appeals to industry professionals on project-based stays.
+- **Donelson / Hermitage** — Near the airport and TriStar Summit. More affordable entry point with solid healthcare demand.
+
+## Nashville MTR Revenue Expectations
+
+Nashville commands strong mid-term rates, especially near healthcare facilities:
+
+- **1-bedroom apartment:** $1,700–$2,500/month
+- **2-bedroom house/condo:** $2,500–$3,800/month
+- **3-bedroom house:** $3,200–$5,000/month
+
+With long-term rents around $1,400–$1,800 for a 2-bedroom, the MTR premium in Nashville typically runs 50–80%.
+
+## Turning Nashville's Regulatory Shift Into Your Advantage
+
+The property owners who are winning in Nashville right now are the ones who recognized the mid-term opportunity early. While former Airbnb hosts scramble to adjust, operators with furnished properties listed on Furnished Finder, Zillow, and corporate housing platforms are filling their units quickly with high-quality tenants.
+
+We help Nashville property owners navigate this transition — from assessing whether your property fits the mid-term model to furnishing and launching on the right platforms. Book a free strategy call to discuss your Nashville property.`,
+  },
+  {
     slug: "what-is-a-mid-term-rental",
     title: "What Is a Mid-Term Rental? The Complete Guide for Property Owners",
     date: "2026-02-15",
@@ -58,6 +219,69 @@ Not every property works as an MTR. The best candidates are:
 The path from traditional landlord to mid-term rental operator is more straightforward than most people expect. It starts with assessing your property, furnishing it strategically, listing on the right platforms, and screening tenants carefully.
 
 We help property owners navigate every step. If you're curious whether your property could perform as a mid-term rental, book a free strategy call and we'll walk through the numbers together.`,
+  },
+  {
+    slug: "mid-term-rentals-tampa-florida",
+    title: "Mid-Term Rentals in Tampa, FL: Sun, Healthcare, and Steady Income",
+    date: "2026-02-12",
+    readTime: "7 min read",
+    excerpt:
+      "Tampa's year-round healthcare demand, snowbird season, and insurance displacement create a uniquely resilient mid-term rental market. Here's how to get started.",
+    tags: ["Tampa FL", "Market Guide", "Geo Strategy"],
+    content: `Tampa, Florida offers mid-term rental operators something rare: year-round demand from multiple sources that don't overlap or compete with each other. Healthcare tenants arrive on 13-week cycles, snowbirds fill winter months, insurance displacement is a constant in hurricane-prone Florida, and corporate relocations keep the pipeline full. This diversity makes Tampa one of the most resilient MTR markets in the country.
+
+## Tampa's Unique Demand Drivers
+
+**Healthcare — the anchor.** Tampa General Hospital, AdventHealth Tampa, Moffitt Cancer Center, and James A. Haley Veterans' Hospital create enormous demand for traveling healthcare professionals. Tampa is consistently one of the top-searched cities on Furnished Finder, and 13-week nursing contracts provide the most predictable tenant cycle in the MTR business.
+
+**Snowbirds and seasonal residents.** From November through April, Tampa sees a massive influx of seasonal residents escaping northern winters. These tenants typically stay 3–6 months, pay reliably, and many return to the same property year after year — creating a built-in repeat booking cycle.
+
+**Insurance displacement.** Florida's hurricane season and its ongoing insurance crisis mean there's a steady flow of families displaced from their homes during repairs. Insurance companies pay market rate (or above) for temporary furnished housing, and these stays typically run 2–6 months. This demand is unique to Florida and Gulf Coast markets.
+
+**MacDill Air Force Base.** Military families, contractors, and personnel on temporary assignments at MacDill create another reliable demand source, especially for properties in South Tampa and the surrounding area.
+
+**Corporate and tech growth.** Tampa's emerging tech scene — anchored by the Water Street development, USF research corridor, and growing fintech sector — brings relocating professionals who need furnished housing during their transition.
+
+## Best Tampa Neighborhoods for MTRs
+
+- **South Tampa / Hyde Park** — Premium market near Tampa General and MacDill AFB. Top rents from healthcare and military tenants.
+- **Westshore / Gandy** — Close to the airport and hospital district. Strong corporate and healthcare demand.
+- **Seminole Heights / Tampa Heights** — Gentrifying neighborhoods with character. Appeals to younger professionals and travel nurses looking for walkability.
+- **Brandon / Riverview** — Suburban market with lower entry costs. Family-friendly, near AdventHealth and Brandon Regional Hospital.
+- **New Tampa / Wesley Chapel** — Growing suburban corridor near AdventHealth Wesley Chapel. Strong for families and longer-term corporate stays.
+
+## Tampa MTR Revenue Expectations
+
+Tampa offers excellent cash flow, especially relative to property acquisition costs:
+
+- **1-bedroom apartment:** $1,600–$2,400/month
+- **2-bedroom house/condo:** $2,400–$3,600/month
+- **3-bedroom house:** $3,000–$4,800/month
+
+Compare these to long-term rents of $1,300–$1,700 for a 2-bedroom, and most Tampa MTRs see a 50–80% revenue premium.
+
+## Florida's MTR-Friendly Regulatory Environment
+
+Florida is one of the most landlord-friendly states for mid-term rentals. Key advantages:
+
+- **No state-level restrictions** on 30+ day furnished rentals
+- **No tourist development tax** on stays of 6 months or longer (and some counties exempt 30+ day stays)
+- **Florida preemption law** limits how much local governments can restrict residential rental activity
+- **No state income tax** — your rental income isn't taxed at the state level
+
+Tampa specifically has no additional licensing requirements for rentals over 30 days. It's treated as a standard residential lease.
+
+## The Seasonal Strategy
+
+The smartest Tampa MTR operators use a seasonal pricing strategy:
+
+- **November–April (peak):** Snowbird season. Set premium rates and book 3–6 month stays.
+- **May–October (off-peak):** Healthcare and corporate demand fills the gap. Traveling nurses don't follow seasonal patterns — hospitals need staff year-round.
+- **Hurricane season overlap:** Insurance displacement demand often spikes during the same months as off-peak, creating a natural hedge.
+
+This layered demand means a well-positioned Tampa MTR can maintain 90%+ annual occupancy.
+
+We help Tampa-area property owners identify the right strategy, furnish for their target market, and list where tenants are actually searching. Book a free strategy call to explore what your Tampa property could earn.`,
   },
   {
     slug: "how-to-furnish-a-mid-term-rental-on-a-budget",
@@ -142,6 +366,68 @@ That's an extra $1,800/month — meaning your furnishing investment pays for its
 - **No welcome supplies** — a few coffee pods, paper towels, and a hand soap go a long way on day one.
 
 Furnishing a mid-term rental is part investment, part hospitality. Get it right, and you'll attract better tenants, earn stronger reviews, and see your property booked consistently.`,
+  },
+  {
+    slug: "mid-term-rentals-denver-colorado",
+    title: "Mid-Term Rentals in Denver, CO: Mountain Market, Premium Returns",
+    date: "2026-02-05",
+    readTime: "7 min read",
+    excerpt:
+      "Denver's healthcare growth, tech corridor, and outdoor lifestyle draw a steady stream of mid-term tenants. Here's how to position your property in the Mile High City.",
+    tags: ["Denver CO", "Market Guide", "Geo Strategy"],
+    content: `Denver, Colorado combines a strong job market, world-class healthcare facilities, and a lifestyle that attracts relocating professionals from across the country. For mid-term rental operators, this translates into steady demand, premium pricing, and tenants who are genuinely excited to be in your city — which often means they take better care of your property.
+
+## What Drives Denver's MTR Demand
+
+**Healthcare.** UCHealth, Denver Health, SCL Health (now Intermountain Health), and the Anschutz Medical Campus — one of the largest medical campuses in the country — drive enormous traveling healthcare demand. The Anschutz campus alone employs over 27,000 people, and its research programs bring visiting scientists and medical professionals on fellowships lasting 3–12 months.
+
+**Tech and aerospace.** Denver's tech scene has matured significantly, with Lockheed Martin, Ball Aerospace, Arrow Electronics, and a growing roster of startups and scale-ups. The Colorado Tech Center in Louisville/Superior and the Denver Tech Center (DTC) in the south suburbs bring contract workers, project-based consultants, and relocating engineers.
+
+**Outdoor lifestyle relocations.** Denver consistently ranks among the top cities people move to, and many newcomers do an extended "try before you buy" period in a furnished rental. These tenants are often high-income professionals willing to pay a premium for a well-furnished property in a good neighborhood while they explore the city and decide where to settle permanently.
+
+**Energy sector.** Denver is the hub for Colorado's energy industry — both traditional oil and gas and the growing renewable sector. Field workers, engineers, and executives on project assignments need furnished housing near downtown and the northern suburbs.
+
+**Military.** Buckley Space Force Base, the Air Force Academy (nearby in Colorado Springs), and NORAD bring military families and contractors on assignment rotations.
+
+## Best Denver Neighborhoods for MTRs
+
+- **Capitol Hill / Cheesman Park** — Central location, walkable, strong appeal to young professionals and healthcare workers at nearby hospitals.
+- **Highlands / LoHi** — Trendy, high-demand neighborhood commanding premium rents. Attracts corporate tenants and lifestyle relocations.
+- **Aurora / Anschutz area** — Directly adjacent to the Anschutz Medical Campus. The single best location for healthcare-focused MTRs in Denver.
+- **Lakewood / Belmar** — Affordable entry point west of downtown. Appeals to families and outdoor-focused tenants near the foothills.
+- **Lone Tree / Centennial (DTC)** — Near the Denver Tech Center. Strong corporate and tech-worker demand.
+
+## Denver MTR Revenue Expectations
+
+Denver's higher cost of living supports premium mid-term rates:
+
+- **1-bedroom apartment:** $1,800–$2,700/month
+- **2-bedroom house/condo:** $2,800–$4,200/month
+- **3-bedroom house:** $3,500–$5,500/month
+
+Long-term rental comparisons: a 2-bedroom in Capitol Hill rents for $1,600–$2,100 unfurnished. The furnished mid-term rate for the same unit is typically $2,800–$3,600 — a 60–80% premium.
+
+## Denver's Regulatory Landscape
+
+Denver has implemented short-term rental licensing requirements, including:
+
+- STR licenses required for rentals under 30 days
+- Primary residence requirement for most STR licenses
+- Lodger's tax on stays under 30 days
+
+**For mid-term operators, the picture is much simpler.** Rentals of 30+ days are classified as standard residential tenancies. No STR license needed, no lodger's tax, and no primary residence requirement. Denver's regulations actually create a competitive advantage for MTR operators by restricting the Airbnb supply.
+
+## The Denver Advantage: Seasonality Without the Downside
+
+Unlike pure vacation markets, Denver's demand doesn't crash in the off-season:
+
+- **Winter (Nov–Mar):** Ski season brings extended-stay visitors, and healthcare demand remains constant. Some property owners even offer "ski season packages" for tenants who want furnished housing near the I-70 corridor.
+- **Spring/Summer (Apr–Oct):** Peak relocation season. Corporate transfers and lifestyle moves spike. Interns arrive for summer placements at tech companies and research labs.
+- **Year-round:** Healthcare contracts cycle every 13 weeks regardless of season.
+
+This balanced demand cycle means a well-positioned Denver MTR can maintain high occupancy without the dramatic seasonal swings that affect resort or beach markets.
+
+We work with Denver-area property owners to identify the best strategy for their specific property and neighborhood. Whether you're near the Anschutz campus, the Tech Center, or in a lifestyle neighborhood like the Highlands, we'll help you furnish, price, and list for maximum returns. Book a free strategy call to get started.`,
   },
   {
     slug: "best-platforms-to-list-your-mid-term-rental",
@@ -411,291 +697,5 @@ For most property owners in most markets, mid-term rentals offer:
 - **More predictable cash flow** — monthly rent vs. volatile nightly bookings
 
 The mid-term rental model isn't just a fallback for markets where Airbnb got restricted. It's a fundamentally better business model for most residential rental properties. The owners who figure this out early are the ones building the most sustainable and profitable portfolios.`,
-  },
-  {
-    slug: "mid-term-rentals-austin-texas",
-    title: "Mid-Term Rentals in Austin, TX: A Market Guide for Property Owners (2026)",
-    date: "2026-03-01",
-    readTime: "8 min read",
-    excerpt:
-      "Austin's booming healthcare sector, tech relocations, and year-round events make it one of the strongest mid-term rental markets in the country. Here's how to capitalize on it.",
-    tags: ["Austin TX", "Market Guide", "Geo Strategy"],
-    content: `Austin, Texas has quietly become one of the best cities in the country for mid-term rental operators. A combination of explosive job growth, a massive healthcare corridor, and strict short-term rental regulations has created the perfect conditions for furnished 30–90 day rentals.
-
-## Why Austin Works for Mid-Term Rentals
-
-Austin's population has grown by over 20% in the past five years, and the demand for flexible housing hasn't kept pace with supply. Three major factors drive MTR demand here:
-
-**Healthcare demand.** Austin is home to Ascension Seton, Baylor Scott & White, St. David's Medical Center, and Dell Children's Medical Center. These facilities rely heavily on traveling nurses, therapists, and technicians on 13-week contracts. Properties within a 15-minute drive of the medical district consistently fill fastest.
-
-**Tech relocations.** Companies like Tesla, Apple, Google, Meta, and Oracle have expanded their Austin footprints significantly. Employees relocating from the Bay Area, Seattle, and New York often need furnished housing for 2–6 months while they house-hunt or decide whether to commit long-term.
-
-**Event and creative economy.** SXSW, Austin City Limits, F1 Circuit of the Americas, and UT Austin football bring extended-stay visitors who need housing beyond what hotels offer. Film and TV production crews frequently book mid-term housing for project durations.
-
-## Best Neighborhoods for Austin MTRs
-
-Not all Austin neighborhoods perform equally for mid-term rentals. The strongest markets include:
-
-- **Mueller / University Hills** — Close to Dell Children's and Seton. Newer construction, walkable, attracts healthcare tenants.
-- **South Congress / Travis Heights** — Premium location commanding top rents. Appeals to corporate relocations and creative professionals.
-- **East Riverside / Oltorf** — Affordable entry point with proximity to downtown. Strong demand from young professionals and interns.
-- **Round Rock / Cedar Park** — Suburban markets near St. David's Round Rock and Baylor Scott & White. Family-friendly, lower entry costs.
-- **Domain / North Austin** — Tech corridor near Apple, Indeed, and Amazon offices. High demand from corporate tenants.
-
-## Austin MTR Revenue Expectations
-
-Mid-term rental rates in Austin vary by neighborhood and property size:
-
-- **1-bedroom apartment:** $1,800–$2,600/month
-- **2-bedroom house/condo:** $2,800–$4,200/month
-- **3-bedroom house:** $3,500–$5,500/month
-
-Compare these to long-term rental rates of $1,200–$1,800 for a 1-bedroom or $1,800–$2,400 for a 2-bedroom, and the revenue premium becomes clear.
-
-## Austin's STR Regulations Work in Your Favor
-
-Austin has some of the most restrictive short-term rental rules in Texas. Type 2 STR licenses (for non-owner-occupied properties) are capped and no longer issued in many areas. This has pushed many former Airbnb properties toward the mid-term model — but it's also reduced competition for hosts who were already positioned for 30+ day stays.
-
-Mid-term rentals of 30 days or more are classified as standard residential leases in Austin and don't require an STR license. No special permits, no occupancy taxes, no neighbor notification.
-
-## Getting Started in Austin
-
-If you own property in the Austin metro area, the path to launching a mid-term rental is straightforward. The key is matching your property to the right tenant pool — a condo near Dell Children's will attract different tenants than a house near the Domain.
-
-We work with Austin-area property owners to assess their specific market, furnish strategically, and list on the platforms where Austin tenants actually search. Book a free strategy call and we'll run the numbers for your property.`,
-  },
-  {
-    slug: "mid-term-rentals-charlotte-north-carolina",
-    title: "Mid-Term Rentals in Charlotte, NC: Why the Queen City Is a Top MTR Market",
-    date: "2026-02-22",
-    readTime: "7 min read",
-    excerpt:
-      "Charlotte's banking sector, growing healthcare system, and rapid population growth create steady demand for mid-term rentals. Here's what property owners need to know.",
-    tags: ["Charlotte NC", "Market Guide", "Geo Strategy"],
-    content: `Charlotte, North Carolina has emerged as one of the Southeast's strongest markets for mid-term rentals. As the second-largest banking center in the United States and a city experiencing rapid population and job growth, Charlotte offers MTR operators a deep, diverse tenant pool with reliable demand year-round.
-
-## What Drives MTR Demand in Charlotte
-
-Charlotte's mid-term rental demand comes from several distinct sources, which means your property isn't dependent on a single industry or season.
-
-**Banking and finance.** Charlotte is the headquarters of Bank of America and Truist Financial, with major offices from Wells Fargo, Ally Financial, and dozens of fintech firms. Corporate relocations, consulting projects, and temporary assignments generate steady demand for furnished housing near Uptown and South End.
-
-**Healthcare.** Atrium Health (now Advocate Health), Novant Health, and Levine Cancer Institute are major employers. Traveling nurses, specialists, and medical researchers on 13-week to 6-month contracts need furnished housing close to these facilities.
-
-**Construction and infrastructure.** Charlotte's building boom — from the LYNX Silver Line expansion to massive mixed-use developments — brings project managers, engineers, and skilled trades workers who need housing for the duration of multi-month projects.
-
-**Motorsports and sports.** NASCAR headquarters, Charlotte Motor Speedway, and professional sports teams (Panthers, Hornets, Charlotte FC) bring team staff, media, and support personnel for extended periods.
-
-## Best Charlotte Neighborhoods for MTRs
-
-- **South End / Dilworth** — Walkable to Uptown, LYNX light rail access. Top-tier rents from banking and corporate tenants.
-- **NoDa (North Davidson)** — Arts district with character. Appeals to younger professionals and creative-industry relocations.
-- **University City** — Near UNC Charlotte, Atrium Health University City, and the LYNX Blue Line. Strong healthcare and student demand.
-- **Ballantyne** — Suburban corporate campus area. Attracts families and executives on longer assignments.
-- **Pineville / Matthews** — Affordable entry point with proximity to Novant Health and Atrium Health Pineville.
-
-## Charlotte MTR Revenue Expectations
-
-Charlotte offers strong returns relative to property costs:
-
-- **1-bedroom apartment:** $1,500–$2,200/month
-- **2-bedroom house/condo:** $2,200–$3,400/month
-- **3-bedroom house:** $2,800–$4,500/month
-
-Long-term rental comparisons: a 2-bedroom in South End might rent for $1,600–$2,000 unfurnished. The same unit as a furnished mid-term rental commands $2,800–$3,400 — a 60–70% premium.
-
-## Charlotte's Regulatory Environment
-
-Charlotte and Mecklenburg County have minimal regulation around mid-term rentals. Rentals of 30+ days are treated as standard residential leases. There's no special permitting process, no occupancy tax for stays over 30 days, and no cap on the number of rental properties you can operate.
-
-This regulatory clarity is one of Charlotte's biggest advantages for MTR investors compared to markets like Nashville or Austin, where short-term rental restrictions create complexity even for 30+ day operators.
-
-## The Charlotte Opportunity
-
-Charlotte's combination of diverse demand drivers, reasonable property prices, and a landlord-friendly regulatory environment makes it an ideal market for mid-term rental operators — whether you're launching your first property or expanding a portfolio.
-
-We help Charlotte-area property owners identify the right neighborhoods, furnish for their target tenant, and launch with a multi-platform listing strategy. Book a free strategy call to see what your property could earn as a mid-term rental.`,
-  },
-  {
-    slug: "mid-term-rentals-nashville-tennessee",
-    title: "Mid-Term Rentals in Nashville, TN: Navigating Regulations and Maximizing Revenue",
-    date: "2026-02-18",
-    readTime: "8 min read",
-    excerpt:
-      "Nashville's crackdown on short-term rentals has created a massive opportunity for mid-term operators. Here's how to position your property in Music City's evolving rental market.",
-    tags: ["Nashville TN", "Market Guide", "Geo Strategy"],
-    content: `Nashville's short-term rental crackdown has been one of the most dramatic in the country — and it's created a golden opportunity for mid-term rental operators. As hundreds of Airbnb properties are pulled from the nightly market, demand for furnished 30+ day housing is surging. Property owners who pivot to mid-term now are positioned to capture displaced demand with less competition.
-
-## Nashville's STR Regulations: What Changed
-
-Nashville has progressively tightened its short-term rental rules over several years:
-
-- **Non-owner-occupied STR permits** in residential zones are no longer issued and existing permits are phasing out
-- Strict enforcement with fines up to $50 per day for unpermitted operations
-- Owner-occupied permits still available but require the owner to be present during guest stays
-- Commercial zones still allow STRs but with additional requirements
-
-**The key takeaway:** If you operate a rental of 30+ days, none of these restrictions apply. Mid-term rentals are classified as standard residential leases in Nashville and require no special permits.
-
-## Why Nashville's MTR Demand Is Surging
-
-Beyond the regulatory shift, Nashville has fundamental demand drivers that make mid-term rentals thrive:
-
-**Healthcare.** Vanderbilt University Medical Center, TriStar Health (HCA), and Ascension Saint Thomas are among the largest employers in the region. Nashville is literally called "The Healthcare Capital of the World" — the city is home to more than 500 healthcare companies. Traveling nurses and healthcare professionals on 13-week contracts are the backbone of Nashville's MTR tenant pool.
-
-**Music and entertainment industry.** Nashville's music industry brings session musicians, songwriters, producers, and label executives on project-based stays lasting 1–6 months. Music Row and the recording studios create a unique tenant demographic you won't find in most markets.
-
-**Corporate relocations.** Amazon's Operations Center of Excellence, AllianceBernstein's relocated headquarters, and Oracle's growing Nashville presence bring a steady flow of professionals needing furnished housing during transitions.
-
-**Tourism spillover.** Nashville's reputation as a destination city means there's always demand at the margins — conference attendees extending their stays, bachelorette parties turning into month-long "try before you move" experiences, and remote workers testing Nashville as a home base.
-
-## Best Nashville Neighborhoods for MTRs
-
-- **East Nashville** — Trendy, walkable, close to downtown. Strong demand from music industry and young professionals. Premium rents.
-- **Germantown / Salemtown** — Near Vanderbilt and downtown hospitals. Attracts healthcare tenants and corporate relocations.
-- **The Gulch / Midtown** — High-end market near Vanderbilt, Music Row, and major employers. Top-tier pricing.
-- **Berry Hill / Melrose** — Music studio corridor. Appeals to industry professionals on project-based stays.
-- **Donelson / Hermitage** — Near the airport and TriStar Summit. More affordable entry point with solid healthcare demand.
-
-## Nashville MTR Revenue Expectations
-
-Nashville commands strong mid-term rates, especially near healthcare facilities:
-
-- **1-bedroom apartment:** $1,700–$2,500/month
-- **2-bedroom house/condo:** $2,500–$3,800/month
-- **3-bedroom house:** $3,200–$5,000/month
-
-With long-term rents around $1,400–$1,800 for a 2-bedroom, the MTR premium in Nashville typically runs 50–80%.
-
-## Turning Nashville's Regulatory Shift Into Your Advantage
-
-The property owners who are winning in Nashville right now are the ones who recognized the mid-term opportunity early. While former Airbnb hosts scramble to adjust, operators with furnished properties listed on Furnished Finder, Zillow, and corporate housing platforms are filling their units quickly with high-quality tenants.
-
-We help Nashville property owners navigate this transition — from assessing whether your property fits the mid-term model to furnishing and launching on the right platforms. Book a free strategy call to discuss your Nashville property.`,
-  },
-  {
-    slug: "mid-term-rentals-tampa-florida",
-    title: "Mid-Term Rentals in Tampa, FL: Sun, Healthcare, and Steady Income",
-    date: "2026-02-12",
-    readTime: "7 min read",
-    excerpt:
-      "Tampa's year-round healthcare demand, snowbird season, and insurance displacement create a uniquely resilient mid-term rental market. Here's how to get started.",
-    tags: ["Tampa FL", "Market Guide", "Geo Strategy"],
-    content: `Tampa, Florida offers mid-term rental operators something rare: year-round demand from multiple sources that don't overlap or compete with each other. Healthcare tenants arrive on 13-week cycles, snowbirds fill winter months, insurance displacement is a constant in hurricane-prone Florida, and corporate relocations keep the pipeline full. This diversity makes Tampa one of the most resilient MTR markets in the country.
-
-## Tampa's Unique Demand Drivers
-
-**Healthcare — the anchor.** Tampa General Hospital, AdventHealth Tampa, Moffitt Cancer Center, and James A. Haley Veterans' Hospital create enormous demand for traveling healthcare professionals. Tampa is consistently one of the top-searched cities on Furnished Finder, and 13-week nursing contracts provide the most predictable tenant cycle in the MTR business.
-
-**Snowbirds and seasonal residents.** From November through April, Tampa sees a massive influx of seasonal residents escaping northern winters. These tenants typically stay 3–6 months, pay reliably, and many return to the same property year after year — creating a built-in repeat booking cycle.
-
-**Insurance displacement.** Florida's hurricane season and its ongoing insurance crisis mean there's a steady flow of families displaced from their homes during repairs. Insurance companies pay market rate (or above) for temporary furnished housing, and these stays typically run 2–6 months. This demand is unique to Florida and Gulf Coast markets.
-
-**MacDill Air Force Base.** Military families, contractors, and personnel on temporary assignments at MacDill create another reliable demand source, especially for properties in South Tampa and the surrounding area.
-
-**Corporate and tech growth.** Tampa's emerging tech scene — anchored by the Water Street development, USF research corridor, and growing fintech sector — brings relocating professionals who need furnished housing during their transition.
-
-## Best Tampa Neighborhoods for MTRs
-
-- **South Tampa / Hyde Park** — Premium market near Tampa General and MacDill AFB. Top rents from healthcare and military tenants.
-- **Westshore / Gandy** — Close to the airport and hospital district. Strong corporate and healthcare demand.
-- **Seminole Heights / Tampa Heights** — Gentrifying neighborhoods with character. Appeals to younger professionals and travel nurses looking for walkability.
-- **Brandon / Riverview** — Suburban market with lower entry costs. Family-friendly, near AdventHealth and Brandon Regional Hospital.
-- **New Tampa / Wesley Chapel** — Growing suburban corridor near AdventHealth Wesley Chapel. Strong for families and longer-term corporate stays.
-
-## Tampa MTR Revenue Expectations
-
-Tampa offers excellent cash flow, especially relative to property acquisition costs:
-
-- **1-bedroom apartment:** $1,600–$2,400/month
-- **2-bedroom house/condo:** $2,400–$3,600/month
-- **3-bedroom house:** $3,000–$4,800/month
-
-Compare these to long-term rents of $1,300–$1,700 for a 2-bedroom, and most Tampa MTRs see a 50–80% revenue premium.
-
-## Florida's MTR-Friendly Regulatory Environment
-
-Florida is one of the most landlord-friendly states for mid-term rentals. Key advantages:
-
-- **No state-level restrictions** on 30+ day furnished rentals
-- **No tourist development tax** on stays of 6 months or longer (and some counties exempt 30+ day stays)
-- **Florida preemption law** limits how much local governments can restrict residential rental activity
-- **No state income tax** — your rental income isn't taxed at the state level
-
-Tampa specifically has no additional licensing requirements for rentals over 30 days. It's treated as a standard residential lease.
-
-## The Seasonal Strategy
-
-The smartest Tampa MTR operators use a seasonal pricing strategy:
-
-- **November–April (peak):** Snowbird season. Set premium rates and book 3–6 month stays.
-- **May–October (off-peak):** Healthcare and corporate demand fills the gap. Traveling nurses don't follow seasonal patterns — hospitals need staff year-round.
-- **Hurricane season overlap:** Insurance displacement demand often spikes during the same months as off-peak, creating a natural hedge.
-
-This layered demand means a well-positioned Tampa MTR can maintain 90%+ annual occupancy.
-
-We help Tampa-area property owners identify the right strategy, furnish for their target market, and list where tenants are actually searching. Book a free strategy call to explore what your Tampa property could earn.`,
-  },
-  {
-    slug: "mid-term-rentals-denver-colorado",
-    title: "Mid-Term Rentals in Denver, CO: Mountain Market, Premium Returns",
-    date: "2026-02-05",
-    readTime: "7 min read",
-    excerpt:
-      "Denver's healthcare growth, tech corridor, and outdoor lifestyle draw a steady stream of mid-term tenants. Here's how to position your property in the Mile High City.",
-    tags: ["Denver CO", "Market Guide", "Geo Strategy"],
-    content: `Denver, Colorado combines a strong job market, world-class healthcare facilities, and a lifestyle that attracts relocating professionals from across the country. For mid-term rental operators, this translates into steady demand, premium pricing, and tenants who are genuinely excited to be in your city — which often means they take better care of your property.
-
-## What Drives Denver's MTR Demand
-
-**Healthcare.** UCHealth, Denver Health, SCL Health (now Intermountain Health), and the Anschutz Medical Campus — one of the largest medical campuses in the country — drive enormous traveling healthcare demand. The Anschutz campus alone employs over 27,000 people, and its research programs bring visiting scientists and medical professionals on fellowships lasting 3–12 months.
-
-**Tech and aerospace.** Denver's tech scene has matured significantly, with Lockheed Martin, Ball Aerospace, Arrow Electronics, and a growing roster of startups and scale-ups. The Colorado Tech Center in Louisville/Superior and the Denver Tech Center (DTC) in the south suburbs bring contract workers, project-based consultants, and relocating engineers.
-
-**Outdoor lifestyle relocations.** Denver consistently ranks among the top cities people move to, and many newcomers do an extended "try before you buy" period in a furnished rental. These tenants are often high-income professionals willing to pay a premium for a well-furnished property in a good neighborhood while they explore the city and decide where to settle permanently.
-
-**Energy sector.** Denver is the hub for Colorado's energy industry — both traditional oil and gas and the growing renewable sector. Field workers, engineers, and executives on project assignments need furnished housing near downtown and the northern suburbs.
-
-**Military.** Buckley Space Force Base, the Air Force Academy (nearby in Colorado Springs), and NORAD bring military families and contractors on assignment rotations.
-
-## Best Denver Neighborhoods for MTRs
-
-- **Capitol Hill / Cheesman Park** — Central location, walkable, strong appeal to young professionals and healthcare workers at nearby hospitals.
-- **Highlands / LoHi** — Trendy, high-demand neighborhood commanding premium rents. Attracts corporate tenants and lifestyle relocations.
-- **Aurora / Anschutz area** — Directly adjacent to the Anschutz Medical Campus. The single best location for healthcare-focused MTRs in Denver.
-- **Lakewood / Belmar** — Affordable entry point west of downtown. Appeals to families and outdoor-focused tenants near the foothills.
-- **Lone Tree / Centennial (DTC)** — Near the Denver Tech Center. Strong corporate and tech-worker demand.
-
-## Denver MTR Revenue Expectations
-
-Denver's higher cost of living supports premium mid-term rates:
-
-- **1-bedroom apartment:** $1,800–$2,700/month
-- **2-bedroom house/condo:** $2,800–$4,200/month
-- **3-bedroom house:** $3,500–$5,500/month
-
-Long-term rental comparisons: a 2-bedroom in Capitol Hill rents for $1,600–$2,100 unfurnished. The furnished mid-term rate for the same unit is typically $2,800–$3,600 — a 60–80% premium.
-
-## Denver's Regulatory Landscape
-
-Denver has implemented short-term rental licensing requirements, including:
-
-- STR licenses required for rentals under 30 days
-- Primary residence requirement for most STR licenses
-- Lodger's tax on stays under 30 days
-
-**For mid-term operators, the picture is much simpler.** Rentals of 30+ days are classified as standard residential tenancies. No STR license needed, no lodger's tax, and no primary residence requirement. Denver's regulations actually create a competitive advantage for MTR operators by restricting the Airbnb supply.
-
-## The Denver Advantage: Seasonality Without the Downside
-
-Unlike pure vacation markets, Denver's demand doesn't crash in the off-season:
-
-- **Winter (Nov–Mar):** Ski season brings extended-stay visitors, and healthcare demand remains constant. Some property owners even offer "ski season packages" for tenants who want furnished housing near the I-70 corridor.
-- **Spring/Summer (Apr–Oct):** Peak relocation season. Corporate transfers and lifestyle moves spike. Interns arrive for summer placements at tech companies and research labs.
-- **Year-round:** Healthcare contracts cycle every 13 weeks regardless of season.
-
-This balanced demand cycle means a well-positioned Denver MTR can maintain high occupancy without the dramatic seasonal swings that affect resort or beach markets.
-
-We work with Denver-area property owners to identify the best strategy for their specific property and neighborhood. Whether you're near the Anschutz campus, the Tech Center, or in a lifestyle neighborhood like the Highlands, we'll help you furnish, price, and list for maximum returns. Book a free strategy call to get started.`,
   },
 ];

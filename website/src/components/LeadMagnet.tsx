@@ -6,10 +6,12 @@ export default function LeadMagnet() {
   const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState(false);
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setSubmitting(true);
+    setError(false);
 
     try {
       const res = await fetch("https://formspree.io/f/xplaceholder", {
@@ -21,7 +23,7 @@ export default function LeadMagnet() {
       if (!res.ok) throw new Error("Failed");
       setSubmitted(true);
     } catch {
-      setSubmitted(true);
+      setError(true);
     } finally {
       setSubmitting(false);
     }
@@ -117,6 +119,11 @@ export default function LeadMagnet() {
                     >
                       {submitting ? "Sending..." : "Download Free Checklist"}
                     </button>
+                    {error && (
+                      <p className="text-center text-xs text-red-600" role="alert">
+                        Something went wrong. Please try again.
+                      </p>
+                    )}
                     <p className="text-center text-[11px] text-text-lighter">
                       No spam, ever. Unsubscribe anytime.
                     </p>
