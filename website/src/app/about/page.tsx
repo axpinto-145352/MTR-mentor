@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -87,8 +88,7 @@ export default function AboutPage() {
             {/* Photo */}
             <div className="lg:col-span-2">
               <div className="overflow-hidden rounded-2xl">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <Image
                   src="/michelle-headshot.png"
                   alt="Michelle Romano — Founder of Mid-Term Mentor"
                   width={480}
