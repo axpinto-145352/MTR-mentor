@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import logoImg from "../../public/logo.png";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -26,10 +27,8 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center" aria-label="Mid-Term Mentor — Home">
             <Image
-              src="/logo.png"
+              src={logoImg}
               alt="Mid-Term Mentor"
-              width={180}
-              height={48}
               className="h-12 w-auto"
               priority
             />
