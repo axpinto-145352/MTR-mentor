@@ -66,7 +66,7 @@ export default function Hero() {
               <div className="relative overflow-hidden rounded-2xl ring-1 ring-white/10">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="/michelle.jpg"
+                  src="/michelle.png"
                   alt="Michelle Romano — Mid-Term Rental Consultant"
                   width={560}
                   height={640}
@@ -74,12 +74,6 @@ export default function Hero() {
                 />
                 {/* Gradient overlay at bottom */}
                 <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-primary/80 to-transparent" />
-              </div>
-
-              {/* Floating quote */}
-              <div className="absolute -bottom-6 -left-6 rounded-xl bg-white p-4 shadow-xl ring-1 ring-black/5">
-                <p className="text-xs font-medium text-text">&quot;Michelle made the whole process effortless.&quot;</p>
-                <p className="mt-1 text-xs text-text-light">— Property Owner, Atlanta</p>
               </div>
 
               {/* Floating stat */}

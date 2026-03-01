@@ -83,7 +83,23 @@ export default function AboutPage() {
       {/* Story */}
       <section className="bg-white py-20 md:py-28">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="mx-auto max-w-3xl">
+          <div className="grid items-start gap-12 lg:grid-cols-5">
+            {/* Photo */}
+            <div className="lg:col-span-2">
+              <div className="overflow-hidden rounded-2xl">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/michelle-headshot.png"
+                  alt="Michelle Romano — Founder of Mid-Term Mentor"
+                  width={480}
+                  height={560}
+                  className="w-full object-cover"
+                />
+              </div>
+            </div>
+
+            {/* Text */}
+            <div className="lg:col-span-3">
             <h2 className="font-serif text-3xl font-bold tracking-tight text-primary sm:text-4xl">
               Why Mid-Term Mentor Exists
             </h2>
@@ -114,6 +130,7 @@ export default function AboutPage() {
             <div className="mt-8">
               <p className="font-serif text-xl font-bold text-warm-dark">\u2014 Michelle Romano</p>
               <p className="text-sm text-text-light">Founder, Mid-Term Mentor</p>
+            </div>
             </div>
           </div>
         </div>
