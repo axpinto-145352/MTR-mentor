@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Hero() {
@@ -64,13 +65,13 @@ export default function Hero() {
             <div className="relative">
               {/* Photo container */}
               <div className="relative overflow-hidden rounded-2xl ring-1 ring-white/10">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <Image
                   src="/michelle.png"
                   alt="Michelle Romano — Mid-Term Rental Consultant"
                   width={560}
                   height={640}
                   className="h-[520px] w-full object-cover object-top"
+                  priority
                 />
                 {/* Gradient overlay at bottom */}
                 <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-primary/80 to-transparent" />

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Header() {
@@ -24,13 +25,13 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between md:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center" aria-label="Mid-Term Mentor — Home">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+            <Image
               src="/logo.png"
               alt="Mid-Term Mentor"
               width={180}
               height={48}
               className="h-12 w-auto"
+              priority
             />
           </Link>
 
