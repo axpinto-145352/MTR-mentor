@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import michelleImg from "../../public/michelle.png";
 
 export default function Hero() {
   return (
@@ -66,12 +67,11 @@ export default function Hero() {
               {/* Photo container */}
               <div className="relative overflow-hidden rounded-2xl ring-1 ring-white/10">
                 <Image
-                  src="/michelle.png"
+                  src={michelleImg}
                   alt="Michelle Romano — Mid-Term Rental Consultant"
-                  width={560}
-                  height={640}
                   className="h-[520px] w-full object-cover object-top"
                   priority
+                  placeholder="blur"
                 />
                 {/* Gradient overlay at bottom */}
                 <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-primary/80 to-transparent" />

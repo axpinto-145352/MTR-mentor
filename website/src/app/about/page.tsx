@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import headshotImg from "../../../public/michelle-headshot.png";
 
 export const metadata: Metadata = {
   title: "About Michelle Romano — Mid-Term Rental Expert & Consultant",
@@ -89,11 +90,10 @@ export default function AboutPage() {
             <div className="lg:col-span-2">
               <div className="overflow-hidden rounded-2xl">
                 <Image
-                  src="/michelle-headshot.png"
+                  src={headshotImg}
                   alt="Michelle Romano — Founder of Mid-Term Mentor"
-                  width={480}
-                  height={560}
                   className="w-full object-cover"
+                  placeholder="blur"
                 />
               </div>
             </div>
